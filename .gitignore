@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets and user credentials
+users.json
+.env
+.streamlit/secrets.toml
+
+# IDE files
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
